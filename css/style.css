@@ -722,9 +722,6 @@ img.svg{
 	float: left;
 	margin-bottom: 13px;
 	
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
-			box-sizing: border-box; /* Opera/IE 8+ */
 }
 .arlo_tm_about_wrap .arlo_tm_main_title_holder{margin-bottom: 40px;}
 .arlo_tm_about_wrap .about_short_contact_wrap ul{
@@ -734,7 +731,6 @@ img.svg{
 .arlo_tm_about_wrap .about_short_contact_wrap ul li{
 	margin: 0px 0px 10px 0px;
 	width: 50%;
-	float: left;
 }
 .arlo_tm_about_wrap .about_short_contact_wrap ul li:nth-of-type(2n){clear: right;}
 .about_short_contact_wrap ul li label{
